@@ -1,0 +1,26 @@
+
+
+body {
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+
+p {
+    border: gold 1mm ridge;
+    color: gold;
+    border-radius: 5rem;
+    
+    font-style: italic ;
+    border-left-style: none;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+    background-color: black;
+}
+
+h1 {
+    border: gold 1mm ridge ;
+    border-radius: 1rem;
+    border-left-style: none;
+}

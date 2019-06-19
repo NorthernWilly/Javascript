@@ -1,0 +1,45 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5cm;
+}
+
+body {
+    background: 5cm whitesmoke;
+    text-align: center;
+    font-size: 1.5cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+}
+input {
+    width: 70%;
+    text-align: center;
+
+}
+
+p {
+    text-align:center;
+    font-size: 0.4cm;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form {
+
+    width: 80%;
+    border-top-style: outset;
+    border-top-width: 2cm;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    border-bottom-style: solid;
+    border-bottom-width: 2cm;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-left-width: 1.5mm;
+    border-right-width: 1.5mm;
+
+    border-color:grey;
+    background: rgba(52, 52, 255, 0.493);
+    font-size: 0.7cm;
+    
+}

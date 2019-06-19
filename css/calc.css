@@ -1,0 +1,20 @@
+#inputA {
+    background: aquamarine;
+    border-radius: 2rm solid black;
+    
+}
+
+#inputB {
+    background: yellow;
+}
+
+button {
+    background: black;
+    color: white;
+    border: 1px solid white;
+}
+
+body {
+    background: rgb(112, 195, 216);
+    border: white solid  10px;
+}

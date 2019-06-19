@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>CACULATOR</title>
+        
+        <link href="css/calc.css"
+        rel="stylesheet"
+        type="text/css"></link>
+        
+    </head>
+    <body>
+        <input type="number" name="inputA" id="inputA">
+        <input type="number" name="inputB" id="inputB">
+        
+        <div>
+        <button onclick = calc().add()>+</button>
+        <button onclick = calc().subtract()>-</button>
+        <button onclick = calc().multiply()>x</button>
+        <button onclick = calc().divide()>/</button>
+        </div>
+        
+        <p id="result"></p>
+
+        <div id="History">
+
+        </div>
+ 
+        <script src="calculator.js"></script>
+
+        
+    </body>
+</html>
